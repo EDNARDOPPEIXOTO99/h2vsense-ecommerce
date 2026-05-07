@@ -17,13 +17,17 @@ O projeto simula um e-commerce inteligente da startup **H2VSENSE**, focada em so
 
 ## 🖥️ Interface do Projeto
 
-![Screenshot](./docs/h2vsense-codigo.png)
+📌 Visão geral do código e estrutura do sistema:
+
+![Interface do Código](./docs/h2vsense-codigo.png)
 
 ---
 
-## 🎬 GIF de Demonstração
+## 🎬 Interface da Aplicação
 
-![Demo](./docs/h2vsense-store.gif)
+📌 Tela principal da loja (H2VSense E-commerce):
+
+![Interface da Store](./docs/h2vsense-store.png)
 
 ---
 
